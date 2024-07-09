@@ -1,7 +1,7 @@
 {
     "slug": "awesome-article",
     "title": "Awesome Article",
-    "main_file_name": "{{ cookiecutter.title|lower|replace(' ','_')}}",
+    "__main_file_name": "{{ cookiecutter.title|lower|replace(' ','_')}}",
     "reference_docs": [
         {
             "title": "Awesome Reference",
