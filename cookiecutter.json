@@ -1,4 +1,16 @@
 {
     "slug": "awesome-article",
-    "title": "Awesome Article"
+    "title": "Awesome Article",
+    "reference_docs": [
+        {
+            "title": "Awesome Reference",
+            "url": "https://example.com"
+        }
+    ],
+    "howto_docs": [
+        {
+            "title": "Awesome Howto",
+            "url": "https://example.com"
+        }
+    ]
 }
