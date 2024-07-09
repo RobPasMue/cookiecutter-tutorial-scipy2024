@@ -5,13 +5,14 @@
     "reference_docs": [
         {
             "title": "Awesome Reference",
-            "url": "https://example.com"
+            "url": "https://example_reference.com"
         }
     ],
     "howto_docs": [
         {
             "title": "Awesome Howto",
-            "url": "https://example.com"
+            "url": "https://example_howto.com"
         }
-    ]
+    ],
+    "include_terminology": true
 }

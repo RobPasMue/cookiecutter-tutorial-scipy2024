@@ -8,7 +8,11 @@
 
 ## Example
 
+{% if cookiecutter.include_terminology %}
+
 ## Terminology
 
 * members
 * name & value
+
+{% endif %}
