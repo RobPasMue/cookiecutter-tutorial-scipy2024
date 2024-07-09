@@ -1,11 +1,11 @@
 ---
-title: "Enum with Alias in Python"
+title: "{{ cookiecutter.title }}"
 tags:
 - python
 status: work-in-progress
 ---
 
-# Enum with Alias in Python
+# {{ cookiecutter.title }}
 
 ## TLDR
 
